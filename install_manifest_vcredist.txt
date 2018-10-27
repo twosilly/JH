@@ -1,0 +1,1 @@
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/vcredist/./vcredist_x64.exe

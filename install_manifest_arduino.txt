@@ -1,0 +1,64 @@
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/AdafruitCircuitPlayground.cat
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/AdafruitCircuitPlayground.inf
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/amd64/libusb0.dll
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/amd64/libusb0.sys
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/arduino-org.cat
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/arduino-org.inf
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/arduino.cat
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/arduino.inf
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/arduino_gemma.cat
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/arduino_gemma.inf
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/CP210x_6.7/ReleaseNotes.txt
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/CP210x_6.7/slabvcp.cat
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/CP210x_6.7/slabvcp.inf
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/CP210x_6.7/SLAB_License_Agreement_VCP_Windows.txt
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/CP210x_6.7/x64/silabenm.sys
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/CP210x_6.7/x64/silabser.sys
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/CP210x_6.7/x64/WdfCoInstaller01009.dll
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/CP210x_6.7/x86/silabenm.sys
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/CP210x_6.7/x86/silabser.sys
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/CP210x_6.7/x86/WdfCoInstaller01009.dll
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/CP210x_6.7.4/slabvcp.cat
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/CP210x_6.7.4/slabvcp.inf
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/CP210x_6.7.4/x64/silabser.sys
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/CP210x_6.7.4/x64/WdfCoInstaller01009.dll
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/CP210x_6.7.4/x86/silabser.sys
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/CP210x_6.7.4/x86/WdfCoInstaller01009.dll
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/dpinst-amd64.exe
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/dpinst-x86.exe
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/FTDI USB Drivers/amd64/ftbusui.dll
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/FTDI USB Drivers/amd64/ftcserco.dll
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/FTDI USB Drivers/amd64/ftd2xx.lib
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/FTDI USB Drivers/amd64/ftd2xx64.dll
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/FTDI USB Drivers/amd64/ftdibus.sys
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/FTDI USB Drivers/amd64/ftlang.dll
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/FTDI USB Drivers/amd64/ftser2k.sys
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/FTDI USB Drivers/amd64/ftserui2.dll
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/FTDI USB Drivers/ftd2xx.h
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/FTDI USB Drivers/ftdibus.cat
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/FTDI USB Drivers/ftdibus.inf
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/FTDI USB Drivers/ftdiport.cat
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/FTDI USB Drivers/ftdiport.inf
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/FTDI USB Drivers/i386/ftbusui.dll
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/FTDI USB Drivers/i386/ftcserco.dll
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/FTDI USB Drivers/i386/ftd2xx.dll
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/FTDI USB Drivers/i386/ftd2xx.lib
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/FTDI USB Drivers/i386/ftdibus.sys
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/FTDI USB Drivers/i386/ftlang.dll
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/FTDI USB Drivers/i386/ftser2k.sys
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/FTDI USB Drivers/i386/ftserui2.dll
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/FTDI USB Drivers/LogoVerificationReport.pdf
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/FTDI USB Drivers/Static/amd64/ftd2xx.lib
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/FTDI USB Drivers/Static/i386/ftd2xx.lib
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/genuino.cat
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/genuino.inf
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/ia64/libusb0.dll
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/ia64/libusb0.sys
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/license/libusb0/installer_license.txt
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/linino-boards_amd64.cat
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/linino-boards_x86.cat
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/linino.inf
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/Old_Arduino_Drivers.zip
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/README.txt
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/x86/libusb0.sys
+E:/Study/cura-build-3.4.1/build/_CPack_Packages/win64/NSIS/Ultimaker Cura-3.4.1-win64/arduino/./arduino/x86/libusb0_x86.dll
