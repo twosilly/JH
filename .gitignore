@@ -4,7 +4,7 @@ CMakeCache.txt
 CMakeFiles/
 CPackConfig.cmake
 CPackSourceConfig.cmake
-Makefile
+
 _CPack_Packages/
 cmake_install.cmake
 
@@ -30,10 +30,9 @@ cmake_install.cmake
 __pycache__
 docs/html
 *.log
-build
+
 *.mo
-resources/i18n/en
-resources/i18n/x-test
+
 package_SHSW
 package
 package_JH
